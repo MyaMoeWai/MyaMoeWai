@@ -2,9 +2,9 @@
 
 
 ## Hi, I'm Mya Moe Wai 👋
-- 🎓 ICT Student at Rangsit University
-- 📊 I’m interested in Data Analysis, AI, Data Science
-- 🚀 Passionate about solving real-world problems with data
+- 🎓 ICT Student at Rangsit University.
+- 📊 I’m interested in Data Analysis, AI, Data Science.
+- 🚀 Passionate about solving real-world problems with data.
 
 ## 🧠 Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
