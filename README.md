@@ -18,8 +18,8 @@
 - **[Retail Customer Insights](https://github.com/MyaMoeWai/retail-insights)** – Cleaned and analyzed retail sales data using Excel and Looker Studio.
 
 ## 📫 Connect with me:
-- [LinkedIn](http://linkedin.com/in/myamoewa)
-- 📧 myamoewai2002@gmail.com
+- [LinkedIn](http://linkedin.com/in/myamoewai)
+-  myamoewai2002@gmail.com
 
 
 
