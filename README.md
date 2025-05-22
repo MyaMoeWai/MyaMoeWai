@@ -1,10 +1,10 @@
 ### Data Analysis | Artificial Intelligence | Data Science | Science 
 
-- # Hi, I'm Mya Moe Wai 👋
-🎓 ICT Student at Rangsit University.  
-📊 I’m interested in Data Analysis, AI, Data Science. 
-🚀 Passionate about solving real-world problems with data.
-📫 How to reach me ... myamoewai2002@gmail.com.
+Hi, I'm Mya Moe Wai 👋
+🎓 ICT Student at Rangsit University 
+📊 I’m interested in Data Analysis, AI, Data Science
+🚀 Passionate about solving real-world problems with data
+📫 How to reach me ... myamoewai2002@gmail.com
 
 ## 🧠 Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
