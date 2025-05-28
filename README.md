@@ -15,7 +15,7 @@
 ## 📂 Projects
 - **[Football Player Injury Analysis](https://github.com/MyaMoeWai/football-player-injury-analysis)** 
 - **[Global Electronics Retailer Data Analysis & Dashboard](https://github.com/MyaMoeWai/global-electronics-analysis)** 
-- **[Retail Customer Insights](https://github.com/MyaMoeWai/retail-insights)**
+- **[Travel Sales Analysis Dashboard](https://github.com/MyaMoeWai/Travel-Sales-Analysis)**
   
 ## 📫 Connect with me:
 - [LinkedIn](http://linkedin.com/in/myamoewai)
