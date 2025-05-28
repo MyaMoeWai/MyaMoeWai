@@ -13,7 +13,7 @@
 - Excel, Google Sheets
 
 ## 📂 Projects
-- **[Football Injury Analysis](https://github.com/MyaMoeWai/football-injury-analysis)** – Modeled and visualized football injury trends using Python and AI Studio.
+- **[Football Player Injury Analysis](https://github.com/MyaMoeWai/football-player-injury-analysis)** – Modeled and predicted football injury trends using Python and AI Studio.
 - **[Maven Travel Sales Analytics](https://github.com/MyaMoeWai/maven-travel-sales)** – Built SQL database and dashboard to analyze travel product performance across channels.
 - **[Retail Customer Insights](https://github.com/MyaMoeWai/retail-insights)** – Cleaned and analyzed retail sales data using Excel and Looker Studio.
 
