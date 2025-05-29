@@ -11,7 +11,7 @@
 - SQL (MySQL)
 - Data Visualization (Looker Studio, Power BI)
 - Excel, Google Sheets
-- XTML, CSS, Bootstrap, Java Script
+- HTML, CSS, Bootstrap, Java Script
 
 ## 📂 Projects
 - **[Football Player Injury Analysis](https://github.com/MyaMoeWai/football-player-injury-analysis)** 
