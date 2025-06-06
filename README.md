@@ -7,7 +7,7 @@
 - 🚀 Passionate about solving real-world problems with data.
 
 ## 🧠 Skills
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn,Scikit-learn)
 - SQL (MySQL)
 - Data Visualization (Looker Studio, Power BI)
 - Excel, Google Sheets
