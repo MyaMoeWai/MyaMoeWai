@@ -18,7 +18,7 @@
 - **[Global Electronics Retailer Data Analysis & Dashboard](https://github.com/MyaMoeWai/global-electronics-analysis)** 
 - **[Travel Sales Analysis Dashboard](https://github.com/MyaMoeWai/Travel-Sales-Analysis)**
 - **[Sales & Customer Insights Analysis](https://github.com/MyaMoeWai/Sales-Customer-Insights-Analysis)**
-- 
+- **[FTL_Myanmar_Gr8_Project](https://github.com/MyaMoeWai/FTL_Myanmar_Gr8))**
   
 ## 📫 Connect with me:
 - [LinkedIn](http://linkedin.com/in/myamoewai)
